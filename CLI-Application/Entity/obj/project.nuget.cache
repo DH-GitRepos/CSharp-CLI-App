@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/S5AvOwZ8wpLHRwSCYG4dIFBoDiQ8rBVC+4xYK9AFVwPRCb6+ZJn1ec9Y/nDkLH22lBipSfaPYfN3k++rq3QbA==",
+  "success": true,
+  "projectFilePath": "E:\\UNI\\02-WORKING FILES\\L6 Working Files\\CCCP\\_ASSIGNMENTS\\Assignment 1\\_SUBMISSION\\CCCP_COMP63038_A1_APP_DH_20122839\\CCCP-Assignment1\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daxxi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\daxxi\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
+    "C:\\Users\\daxxi\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
